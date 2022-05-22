@@ -2,7 +2,5 @@ Instructions for deploying this site to the server
 -------------------------------------
 toto toto titi tata
 
-Installation on Instructions
----------------------------
-
-Content goes here
+troubleshooting
+------------------
